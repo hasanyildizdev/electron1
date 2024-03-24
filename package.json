@@ -1,0 +1,25 @@
+{
+  "name": "electron_test",
+  "version": "1.0.0",
+  "description": "Electron Test",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasanyildizdev/electron1.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Hasan YILDIZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hasanyildizdev/electron1/issues"
+  },
+  "homepage": "https://github.com/hasanyildizdev/electron1#readme",
+  "devDependencies": {
+    "electron": "^29.1.5"
+  }
+}
